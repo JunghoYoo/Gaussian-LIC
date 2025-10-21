@@ -126,9 +126,10 @@ If you find our work helpful, please consider citing 🌟:
 
 ```bibtex
 @inproceedings{lang2025gaussian,
-  title={Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion}, 
+  title={Gaussian-LIC: Real-time photo-realistic SLAM with Gaussian splatting and LiDAR-inertial-camera fusion},
   author={Lang, Xiaolei and Li, Laijian and Wu, Chenming and Zhao, Chen and Liu, Lina and Liu, Yong and Lv, Jiajun and Zuo, Xingxing},
-  booktitle={2025 International Conference on Robotics and Automation (ICRA)},
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={8500--8507},
   year={2025},
   organization={IEEE}
 }
