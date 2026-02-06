@@ -22,3 +22,4 @@ ckpt/
 *.engine
 
 third_party/
+result
